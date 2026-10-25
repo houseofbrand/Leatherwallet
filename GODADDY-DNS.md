@@ -23,9 +23,9 @@ Do not remove MX, TXT, verification, DKIM or other email-related records. Do not
 | A | `@` | `185.199.109.153` | 1 hour/default |
 | A | `@` | `185.199.110.153` | 1 hour/default |
 | A | `@` | `185.199.111.153` | 1 hour/default |
-| CNAME | `www` | `GITHUB_USERNAME.github.io` | 1 hour/default |
+| CNAME | `www` | `houseofbrand.github.io` | 1 hour/default |
 
-The `www` CNAME must point directly to the GitHub account domain, without the repository name and without `https://` or a trailing path. Replace `GITHUB_USERNAME` after the repository owner is known.
+The `www` CNAME must point directly to `houseofbrand.github.io`, without the repository name and without `https://` or a trailing path.
 
 Optional IPv6 records may also be added:
 

@@ -20,6 +20,8 @@ Open `http://localhost:4173`.
 
 GitHub Pages deployment is defined in `.github/workflows/deploy-pages.yml`. Every push to `main` runs the build and validation scripts, uploads `dist/`, and deploys the generated static site. The build emits `CNAME` for `leatherwalletmanufacturer.com` and `.nojekyll` for predictable static asset handling.
 
+Repository: `https://github.com/houseofbrand/Leatherwallet`
+
 GoDaddy DNS records and launch verification steps are documented in `GODADDY-DNS.md`.
 
 Before launch:
