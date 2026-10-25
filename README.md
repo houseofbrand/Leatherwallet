@@ -38,7 +38,9 @@ Before launch:
 
 Every route is emitted as static crawlable HTML with a unique title, description, canonical URL, Open Graph data, one H1, breadcrumbs and JSON-LD. The build generates `sitemap.xml` and `robots.txt`.
 
-The site contains 24 routes, including focused pages for OEM development, trifolds, slim wallets, long wallets and zip-around wallets. `keyword-map.csv` assigns the complete 100-keyword target library by intent and avoids creating separate pages for minor wording variations.
+The site contains 25 routes, including focused pages for OEM development, product categories, gift sets and a seven-part B2B buyer resource hub. The wallet collection provides crawlable product-direction cards with client-side search and category filters; it does not invent unverified SKUs from the broader stated catalogue. `keyword-map.csv` assigns the complete 100-keyword target library by intent and avoids creating separate pages for minor wording variations.
+
+The WebSite structured data includes a SearchAction backed by the real `/wallet-collection/?q=` catalogue search. Organization, breadcrumb, person and FAQ data remain limited to claims and content visible on the relevant pages.
 
 Quantitative keyword data was unavailable; volume and difficulty remain explicitly marked unverified. Validate priorities with Google Keyword Planner and real Search Console query data after launch.
 

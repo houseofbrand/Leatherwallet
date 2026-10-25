@@ -15,7 +15,7 @@ export const nav = [
   ["Private Label", "/private-label-wallet-manufacturer/"],
   ["Branding & Packaging", "/custom-logo-wallets/"],
   ["Corporate Gifting", "/corporate-gift-wallets/"],
-  ["About", "/about-us/"],
+  ["Buyer Guides", "/resources/"],
   ["Contact", "/contact/"]
 ];
 

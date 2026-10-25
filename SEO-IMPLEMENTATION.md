@@ -25,18 +25,20 @@ The 100 supplied keywords are mapped in `keyword-map.csv`. Close variants share 
 | `/custom-wallet-packaging/` | custom wallet packaging and branded wallet boxes |
 | `/leather-wallet-belt-gift-set-manufacturer/` | leather wallet and belt gift set manufacturer |
 | `/corporate-gift-wallets/` | corporate leather wallet gifts wholesale |
+| `/resources/` | buyer education for private label, MOQ, branding, packaging and bulk ordering |
 
 ## Technical implementation
 
 - Unique titles, descriptions, canonical URLs and H1 headings are validated during the build check.
 - Important pages explicitly use `index,follow,max-image-preview:large`.
 - Open Graph and Twitter card metadata use absolute image URLs.
-- Organization, WebSite and BreadcrumbList structured data are emitted globally.
+- Organization, WebSite and BreadcrumbList structured data are emitted globally. WebSite SearchAction points to the functional catalogue query experience.
 - The About page adds visible Person data; the FAQ page adds FAQPage data matching visible answers.
 - The sitemap contains every generated route and `robots.txt` links to it.
 - Internal references, mapped landing pages, JSON-LD, image assets and WhatsApp destinations are checked automatically.
 - Contextual WhatsApp links include a relevant pre-filled message and the visitor must send it.
 - Conversion elements expose optional data-layer events without inventing GA4 or Search Console IDs.
+- The collection’s search and filters operate on verified category directions while the broader 500+ range remains a qualified catalogue-request claim.
 
 ## Remaining launch actions
 
