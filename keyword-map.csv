@@ -1,0 +1,101 @@
+ID,Keyword,Cluster,Intent,Recommended landing page,Role,Research status
+1,leather wallet manufacturer,Core manufacturer,Commercial,/,Primary,Volume and difficulty unverified
+2,leather wallet manufacturers in India,Core manufacturer,Commercial,/leather-wallet-manufacturer-india/,Secondary,Volume and difficulty unverified
+3,wallet manufacturer in India,Core manufacturer,Commercial,/leather-wallet-manufacturer-india/,Secondary,Volume and difficulty unverified
+4,leather wallet manufacturer India,Core manufacturer,Commercial,/leather-wallet-manufacturer-india/,Primary,Volume and difficulty unverified
+5,wallet manufacturers,Core manufacturer,Commercial,/,Secondary,Volume and difficulty unverified
+6,leather wallet supplier,Core manufacturer,Commercial,/,Secondary,Volume and difficulty unverified
+7,wholesale leather wallet manufacturer,Core manufacturer,Commercial,/wholesale-wallets/,Primary,Volume and difficulty unverified
+8,leather wallet factory,Core manufacturer,Commercial,/,Supporting,Volume and difficulty unverified
+9,leather wallet production company,Core manufacturer,Commercial,/leather-wallet-manufacturer-india/,Supporting,Volume and difficulty unverified
+10,leather goods manufacturer India,Core manufacturer,Commercial,/leather-wallet-manufacturer-india/,Supporting,Volume and difficulty unverified
+11,leather wallet exporter India,Core manufacturer,Commercial,/leather-wallet-manufacturer-india/,Secondary,Volume and difficulty unverified
+12,bulk leather wallet supplier,Core manufacturer,Commercial,/wholesale-wallets/,Secondary,Volume and difficulty unverified
+13,leather wallets wholesale,Core manufacturer,Commercial,/wallet-collection/,Primary,Volume and difficulty unverified
+14,leather wallet wholesale supplier,Core manufacturer,Commercial,/wholesale-wallets/,Secondary,Volume and difficulty unverified
+15,leather wallet manufacturing company,Core manufacturer,Commercial,/,Secondary,Volume and difficulty unverified
+16,private label wallet manufacturer,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Primary,Volume and difficulty unverified
+17,private label leather wallet manufacturer,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+18,OEM wallet manufacturer,Private label and OEM,Commercial,/oem-wallet-manufacturer/,Primary,Volume and difficulty unverified
+19,leather wallet OEM manufacturer,Private label and OEM,Commercial,/oem-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+20,custom wallet manufacturer,Private label and OEM,Commercial,/oem-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+21,custom leather wallet manufacturer,Private label and OEM,Commercial,/oem-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+22,private label wallets India,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+23,wallet manufacturer for brands,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+24,own brand wallet manufacturer,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+25,wallet manufacturing for private labels,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+26,custom wallet supplier,Private label and OEM,Commercial,/oem-wallet-manufacturer/,Supporting,Volume and difficulty unverified
+27,private label leather goods manufacturer,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Supporting,Volume and difficulty unverified
+28,OEM leather goods manufacturer,Private label and OEM,Commercial,/oem-wallet-manufacturer/,Supporting,Volume and difficulty unverified
+29,white label wallet manufacturer,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+30,private label wallet supplier,Private label and OEM,Commercial,/private-label-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+31,custom logo leather wallets,Custom logo and branding,Commercial,/custom-logo-wallets/,Primary,Volume and difficulty unverified
+32,embossed logo wallet manufacturer,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+33,custom embossed leather wallets,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+34,debossed logo leather wallets,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+35,branded leather wallet manufacturer,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+36,logo wallets wholesale,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+37,customized leather wallets bulk,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+38,leather wallet logo customization,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+39,private label wallets with logo,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+40,wallet branding manufacturer,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+41,custom branded wallets wholesale,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+42,leather wallets with company logo,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+43,personalized logo wallets bulk,Custom logo and branding,Commercial,/custom-logo-wallets/,Supporting,Volume and difficulty unverified
+44,custom logo wallet supplier,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+45,branded wallets manufacturer India,Custom logo and branding,Commercial,/custom-logo-wallets/,Secondary,Volume and difficulty unverified
+46,low MOQ wallet manufacturer,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Primary,Volume and difficulty unverified
+47,low MOQ leather wallet manufacturer,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+48,wallet manufacturer small MOQ,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+49,private label wallets low MOQ,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+50,custom wallets low minimum order,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+51,wholesale wallets low MOQ,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+52,leather wallet manufacturer 72 pieces MOQ,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+53,bulk order leather wallets,Low MOQ and bulk,Commercial,/wholesale-wallets/,Secondary,Volume and difficulty unverified
+54,small batch wallet manufacturer,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+55,wallet supplier for startups,Low MOQ and bulk,Commercial,/low-moq-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+56,custom wallet packaging,Packaging,Commercial,/custom-wallet-packaging/,Primary,Volume and difficulty unverified
+57,branded wallet boxes,Packaging,Commercial,/custom-wallet-packaging/#individual-wallet-boxes,Primary,Volume and difficulty unverified
+58,custom wallet box manufacturer,Packaging,Commercial,/custom-wallet-packaging/#individual-wallet-boxes,Secondary,Volume and difficulty unverified
+59,leather wallet box packaging,Packaging,Commercial,/custom-wallet-packaging/,Secondary,Volume and difficulty unverified
+60,private label wallet packaging,Packaging,Commercial,/custom-wallet-packaging/,Secondary,Volume and difficulty unverified
+61,custom branded wallet boxes,Packaging,Commercial,/custom-wallet-packaging/#individual-wallet-boxes,Secondary,Volume and difficulty unverified
+62,wallet packaging manufacturer India,Packaging,Commercial,/custom-wallet-packaging/,Secondary,Volume and difficulty unverified
+63,luxury wallet packaging wholesale,Packaging,Commercial,/custom-wallet-packaging/,Secondary,Volume and difficulty unverified
+64,wallet gift box manufacturer,Packaging,Commercial,/custom-wallet-packaging/,Secondary,Volume and difficulty unverified
+65,leather wallet packaging supplier,Packaging,Commercial,/custom-wallet-packaging/,Secondary,Volume and difficulty unverified
+66,leather wallet and belt gift set manufacturer,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Primary,Volume and difficulty unverified
+67,wallet and belt gift set wholesale,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+68,leather wallet belt combo manufacturer,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+69,wallet belt combo wholesale,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+70,private label wallet and belt gift set,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+71,custom wallet and belt gift set,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+72,branded wallet and belt gift set,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+73,wallet and belt set manufacturer India,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+74,leather wallet belt combo supplier,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+75,custom branded wallet belt gift box,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/#gift-boxes,Secondary,Volume and difficulty unverified
+76,wallet and belt corporate gift sets,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+77,wholesale leather gift sets,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+78,wallet and belt gift set low MOQ,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+79,leather wallet and belt combo India,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+80,custom logo wallet and belt set,Wallet and belt gift sets,Commercial,/leather-wallet-belt-gift-set-manufacturer/,Secondary,Volume and difficulty unverified
+81,men's leather wallet manufacturer,Product-specific,Commercial,/mens-wallet-manufacturer/,Primary,Volume and difficulty unverified
+82,men's wallet manufacturer India,Product-specific,Commercial,/mens-wallet-manufacturer/,Secondary,Volume and difficulty unverified
+83,women's wallet manufacturer,Product-specific,Commercial,/womens-wallet-manufacturer/,Primary,Volume and difficulty unverified
+84,bifold wallet manufacturer,Product-specific,Commercial,/bifold-wallet-manufacturer/,Primary,Volume and difficulty unverified
+85,trifold wallet manufacturer,Product-specific,Commercial,/trifold-wallet-manufacturer/,Primary,Volume and difficulty unverified
+86,slim wallet manufacturer,Product-specific,Commercial,/slim-wallet-manufacturer/,Primary,Volume and difficulty unverified
+87,leather cardholder manufacturer,Product-specific,Commercial,/cardholder-manufacturer/,Primary,Volume and difficulty unverified
+88,leather card holder wholesale,Product-specific,Commercial,/cardholder-manufacturer/,Secondary,Volume and difficulty unverified
+89,leather long wallet manufacturer,Product-specific,Commercial,/leather-long-wallet-manufacturer/,Primary,Volume and difficulty unverified
+90,zip around wallet manufacturer,Product-specific,Commercial,/zip-around-wallet-manufacturer/,Primary,Volume and difficulty unverified
+91,corporate leather wallet gifts wholesale,Corporate and international,Commercial,/corporate-gift-wallets/,Primary,Volume and difficulty unverified
+92,corporate wallet manufacturer,Corporate and international,Commercial,/corporate-gift-wallets/,Secondary,Volume and difficulty unverified
+93,customized leather wallets for corporate gifts,Corporate and international,Commercial,/corporate-gift-wallets/,Secondary,Volume and difficulty unverified
+94,bulk wallet gifts with logo,Corporate and international,Commercial,/corporate-gift-wallets/,Secondary,Volume and difficulty unverified
+95,corporate wallet and belt gift set supplier,Corporate and international,Commercial,/corporate-gift-wallets/,Secondary,Volume and difficulty unverified
+96,leather wallet supplier for importers,Corporate and international,Commercial,/leather-wallet-manufacturer-india/,Secondary,Volume and difficulty unverified
+97,leather wallet manufacturer for international brands,Corporate and international,Commercial,/leather-wallet-manufacturer-india/,Secondary,Volume and difficulty unverified
+98,wholesale leather wallets supplier India,Corporate and international,Commercial,/wholesale-wallets/,Secondary,Volume and difficulty unverified
+99,private label wallet manufacturer for export,Corporate and international,Commercial,/leather-wallet-manufacturer-india/,Secondary,Volume and difficulty unverified
+100,custom leather goods supplier for brands,Corporate and international,Commercial,/oem-wallet-manufacturer/,Secondary,Volume and difficulty unverified
